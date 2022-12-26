@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <title>Tienda de Útiles FISI</title>
+    <link rel="icon" href="img/utiles.png" type="image/x-icon">
 </head>
 <body>
     

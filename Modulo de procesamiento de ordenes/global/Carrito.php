@@ -32,8 +32,8 @@
                 
                 /******/
                 $_SESSION['cod_cliente']=1;
-                $_SESSION['nombre_cliente']="Shaylynn Guilliatt";
-                $_SESSION['ruc_cliente']="413-49-645";
+                $_SESSION['nombre_cliente']="Bill Gates";
+                $_SESSION['ruc_cliente']="1043157084";
 
                 if(!isset($_SESSION['detalles'])){
                     $articulo=array(
